@@ -1,25 +1,26 @@
 ## About this Page
-This is a github for a paper, 'Optimization of Green Space Allocation for Heat Reduction Considering Vulnerability of Elderly' (about to be published)
+This is a github for a paper, 'Optimization of Green Space Allocation for Heat Reduction Considering Vulnerability of Elderly' (about to be published) <br>
 In this github, there are codes and data used in the paper. The code is executed in MATLAB.
 
 Feel free to contact me:)
 email : serendipity5786@snu.ac.kr
 
+<br>
 
 ## Description of Code and Data : English version
 
-[Data]  
+### [Data]  
 These are the 4 input datasets used in GA. They are in ASCII format with a resolution of 100m*100m.  
 - allpop_100.txt: Total population data  
 - fixed_100.txt: Development-restricted area data  
 - lulc_100.txt: Land cover data  
 - vulclass_100.txt: Population aged 65 and over data  
 
-[Code]  
+### [Code]  
 - main.m: The primary GA code used initially  
 - minmax.m: Code for calculating the min and max of each fitness function to find the global optimum
 
-[Function]  
+### [Function]  
 - cluster.m: A function for clustering the aggregated greenery  
 - extent.m: A function for calculating the area of each cluster  
 - fitness_allpop.m: Fitness function for maximizing cooled POP  
@@ -32,21 +33,21 @@ These are the 4 input datasets used in GA. They are in ASCII format with a resol
 - tournament_selection.m: Tournament selection function  
 - whole.m: Code for identifying the indirect cooling extent
 
----------------------
+<br>
 
 ## Description of Code and Data : Korean version
-[Data]
+### [Data]
 GA에 input 된 4개의 데이터입니다. ASCII 형태의 데이터며, 100m*100m의 해상도를 가지고 있습니다.
 - allpop_100.txt : 전체 인구 데이터
 - fixed_100.txt : 개발 금지지역 데이터
 - lulc_100.txt : 토지피복 데이터
 - vulclass_100.txt : 65세 이상 인구 데이터
 
-[code]
+### [code]
 - main.m : 처음 사용하는 GA 코드
 - minmax : 각 fitness function의 min과 max를 구하는 코드, global optimum 구하기
 
-[function]
+### [function]
 - cluster.m : 모여진 greenery들을 클러스터링 하는 함수
 - extent.m : 각 클러스터의 area를 구하는 함수
 - fitness_allpop.m : Maximize of cooled POP에 대한 fitness 함수
