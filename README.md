@@ -1,13 +1,12 @@
 ## About this Page
 This is a github for a paper, 'Optimization of Green Space Allocation for Heat Reduction Considering Vulnerability of Elderly' (about to be published)
-In this github, there are codes and data used in the paper.
+In this github, there are codes and data used in the paper. The code is executed in MATLAB.
 
 Feel free to contact me:)
 email : serendipity5786@snu.ac.kr
 
-## Description of Code and Data
-## English version
-The provided link contains the code and data for the paper titled "Optimization of Green Infrastructure Allocation for Heat Reduction Considering Vulnerability of Older Adults." The code is executed using MATLAB.
+
+## Description of Code and Data : English version
 
 [Data]  
 These are the 4 input datasets used in GA. They are in ASCII format with a resolution of 100m*100m.  
@@ -35,9 +34,7 @@ These are the 4 input datasets used in GA. They are in ASCII format with a resol
 
 ---------------------
 
-## Korean version
-본 링크 안에는 'Optimization of Green Infrastructure Allocation for Heat Reduction Considering Vulnerability of Older Adults'라는 논문의 코드와 data가 들어있습니다. 해당 코드는 matlab을 통해 구동됩니다.
-
+## Description of Code and Data : Korean version
 [Data]
 GA에 input 된 4개의 데이터입니다. ASCII 형태의 데이터며, 100m*100m의 해상도를 가지고 있습니다.
 - allpop_100.txt : 전체 인구 데이터
