@@ -1,0 +1,5 @@
+# MATLAB Toolbox Requirements
+
+# Required Toolboxes (install using MATLAB Add-Ons Manager)
+Image Processing Toolbox==24.2
+Statistics and Machine Learning Toolbox==24.2
