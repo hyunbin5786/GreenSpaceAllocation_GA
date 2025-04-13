@@ -1,5 +1,5 @@
 ## About this Page
-This is a github for a paper, 'Optimization of Green Space Allocation for Heat Reduction Considering Vulnerability of Elderly' (about to be published) <br>
+This is a github for a paper, 'Optimization of Green Space Allocation for Heat Reduction Considering Vulnerability of Older Adults' (about to be published) <br>
 In this github, there are codes and data used in the paper. The code is executed in MATLAB.
 
 Feel free to contact me:) <br>
